@@ -1,0 +1,17 @@
+.username{
+    min-width: 300px;
+}
+
+.action-link{
+    padding: 10px;
+}
+
+.list-users{
+    margin: 10px;
+    a.action-link{
+        list-style: none;
+        text-decoration: none;
+        float: right;
+        display: contents;
+    }
+}
